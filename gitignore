@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# Secrets — NEVER commit API keys
+.env.local
+secrets.json
+*_key.txt
+*_secret.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model checkpoints (large, don't push to GitHub)
+takemeter-model/
+*.bin
+*.pt
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
