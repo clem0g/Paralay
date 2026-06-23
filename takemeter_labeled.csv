@@ -1,0 +1,223 @@
+id,source_thread,comment_text,label,split,rationale
+w2,worldcup,"Maybe France, Spain, and England have the best chances. I'd put Argentina and Germany in the mix",analytical_prediction,train,Tiered contenders list reflecting form/strength assessment
+w3,worldcup,I'd put Argentina and Germany in the mix,casual_vote,test,Bare naming of teams with no reasoning (reply fragment)
+w4,worldcup,"I tipped Spain before the tournament, and they are still my pick. However, France and Argentina are probably the best two teams at this point.",analytical_prediction,train,Pick plus comparative judgment of current best teams
+w5,worldcup,"its too early to tell stil but my prediction is ARG, FRA, GER, SPA or ENG",hot_take,train,Hedges as too-early but still fires off a broad multi-team pick with no reasoning
+w6,worldcup,Germany,casual_vote,test,Single country name
+w7,worldcup,Netherlands But we all know who has a clearer and easier path to get into the final rounds,analytical_prediction,train,Pick justified by easier bracket path
+w8,worldcup,You read the article about the professor who correctly predicted the last 3 WC winners & is predicting Netherlands this year too I guess?,hot_take,train,Backs Netherlands via an appeal to a viral prediction article rather than football reasoning
+w9,worldcup,Argentina ? I can say the same for england,casual_vote,val,Bare team toss-out in reply banter
+w10,worldcup,Whatever the betting markets say,meta_skepticism,val,Defers to markets instead of naming a winner
+w11,worldcup,"France and Spain frontrunners. England, Portugal, and Argentina next. Then a group with a bit longer odds like Germany, Netherlands, Japan, Norway, Brazil. As a US fan I'd love to put them in that 3rd group but they need to show it against a top 20 opponent.",analytical_prediction,val,Detailed tiered odds ranking with a stated criterion for USA
+w12,worldcup,We beat them all ez except france When was the last time Germany beat (not draw) Spain?,hot_take,test,Bold USA-beats-everyone claim plus rhetorical jab
+w13,worldcup,When was the last time Germany beat (not draw) Spain? If I remember correctly it has been awhile.,analytical_prediction,val,Head-to-head history point about Germany vs Spain
+w14,worldcup,"We'll beat Germany, we'll get vingance!",hot_take,train,Confident emotional USA claim with no support
+w15,worldcup,so everyones picks are exactly like current odds??,meta_skepticism,test,Critiques that picks just mirror odds - no own pick
+w16,worldcup,More like the odds are following everyone's picks.,meta_skepticism,test,Meta commentary on odds vs picks - no winner named
+w17,worldcup,Croatia,casual_vote,val,Single country name
+w18,worldcup,"Argentina. My first choice to win... Argentina has the easiest path to the quarterfinals, if they can get past the brutal round of 32 game that might be vs Uruguay. After that, Colombia/Canada/Belgium are the only obstacles...",analytical_prediction,train,Detailed bracket-path breakdown supporting the pick
+w19,worldcup,"As it stands, Argentina has the easiest path to the quarterfinals... However, Uruguay will want to beat Spain. Do that, and Argentina will face Spain in R32...",analytical_prediction,train,Specific bracket-path reasoning
+w20,worldcup,His playstyle lends itself to longevity. Ronaldo is like Lebron... Messi is like Curry or Gretsky. Small guys who had to have a big bag of tricks...,hot_take,train,Player-comparison narrative riff
+w21,worldcup,England or France,casual_vote,train,Two names
+w22,worldcup,Japan 5-0 in finals,hot_take,train,Bold specific scoreline claim with zero support
+w23,worldcup,"Favorites are France, Spain, England and Argentina. Outside chances for Portugal, Germany, Brazil and Netherlands. Everyone else would be a huge shocker",analytical_prediction,train,Structured favorites vs outside-chances tiering
+w24,worldcup,"I think: France-1 Argentina-2 England-3 Spain-4 Germany-5... Darkhorses: Netherlands, Japan, USA, Norway AND Mexico... England has to go play in Mexico. Moving from Kansas to a mile in the sky is hard to adjust.",analytical_prediction,train,Ranked list with darkhorses and an altitude/travel factor
+w25,worldcup,Sticking with Spain... Argentina is too dependent on Messi... Portugal has a clear Ronaldo problem... The Netherlands I feel have already looked vulnerable (don't let the Sweden result fool you)...,analytical_prediction,test,Pick plus point-by-point weaknesses of rivals
+w26,worldcup,"Favorites: France, Spain. Contenders: Argentina. Contenders if they show up: England, Netherlands, Germany. Dark Horses: USA, Mexico, Japan, Norway, Brazil. Spoilers: Morocco, Uruguay, Korea, Belgium, Egypt, Portugal",analytical_prediction,test,Highly structured multi-tier categorization
+w27,worldcup,Well categorized! And it's crazy we live in an era where Brazil is a dark horse and Italy isn't even playing,casual_vote,train,Agreement plus observation
+w28,worldcup,"France Spain Argentina Germany England Brazil Netherlands Japan Croatia Morocco Portugal Norway USA. Unlike the 12 I don't think the USA are possible winners, but they do have a very easy path to the quarters...",analytical_prediction,train,Ranked list with reasoning on USA path and Belgium falling off
+w29,worldcup,"You think Germany as 5 after yesterday? They'd have to get through France, Spain on their side of bracket and England/Argentina in the finals.",analytical_prediction,val,Challenges a ranking using bracket-path reasoning
+w30,worldcup,"Feel France, Argentina, Netherlands, and Spain are looking solid for top 4. Though I'd like a new winner, so also wanting Morocco, Portugal, and Japan to go far.",analytical_prediction,train,Top-4 read based on current form plus rooting note
+w31,worldcup,Canada or Ghana. There will be an upset this WC,hot_take,train,Bold upset call naming longshots with no support
+w32,worldcup,Happy to make top 16. Canadian here. Win is delulu.,meta_skepticism,train,Rules own team out
+w33,worldcup,Right now I like France as top dog (I bet a lot on them). The bottom half of the draw looks kinda soft so feel like it's going to be Argentina or England v Spain or France...,analytical_prediction,train,Pick with draw-strength reasoning and final projection
+w34,worldcup,"Most likely, Argentina or France. My heart wants to see the USA, Japan, or Belgium.",analytical_prediction,train,Reasoned likely pick separated from emotional preference
+w35,worldcup,Same 4 picks as you. The winner has to be in that group. Can't wait!,casual_vote,test,Agreement with another list
+w36,worldcup,USA BABY GIVE US FRANCE RAHH. Seriously though it's probably gonna be Argentina,hot_take,test,Hype then a gut pick of Argentina with no support
+w37,worldcup,France is better. Argentina with the easy schedule though.,analytical_prediction,train,Comparative claim citing Argentina's easy schedule
+w38,worldcup,100% The Netherlands.,casual_vote,train,Bare confident pick
+w39,worldcup,Really hope Netherlands can win this one. They've been trying far too long,casual_vote,train,Rooting hope
+w40,worldcup,Nah Netherlands can't win the world cup they got some voodoo shit,hot_take,test,Dismissive claim based on superstition narrative
+w41,worldcup,That is my pick,casual_vote,train,Bare confirmation of a pick
+w42,worldcup,"Two games in, Argentina is playing the most complete games. I can't shake the feeling that Mexico is gonna wreck somebody's cup. That giant viking bastard on Norway scares me.",analytical_prediction,train,Form-based read on Argentina plus threat assessments
+w43,worldcup,"Haha, Haaland is a beast.",casual_vote,train,Banter agreement
+w44,worldcup,"I think France or Spain are most likely. Second tier is England, Argentina or Netherlands. I'd put Argentina top three but they haven't been tested and their midfield/defense looks weak so far.",analytical_prediction,train,Tiered pick with specific squad-area critique
+w45,worldcup,Japan. Love to watch them play. Hope they go far,casual_vote,test,Rooting preference
+w46,worldcup,Love to watch them play. Hope they go far,casual_vote,train,Pure rooting fragment
+w47,worldcup,Would love to see them make a run to the semis,casual_vote,train,Rooting hope fragment
+w48,worldcup,Personally I think it's still up in the air between a few teams but realistically if France don't win they will be thoroughly disappointed,hot_take,train,Leans France via expectation narrative
+w49,worldcup,We're disappointed every World Cup we don't win for the last 20+ years,casual_vote,train,Banter reply
+w50,worldcup,France no doubt,casual_vote,train,Bare confident name
+w51,worldcup,"england and argentina for me. messi is still arguably the best player in the world, but england has one of the best rosters i've ever seen in a world cup squad.",analytical_prediction,train,Picks backed by player and roster-quality assessment
+w52,worldcup,Germany. 5 stars loading up,casual_vote,train,Name plus hype phrase
+w54,worldcup,I want an underdog like Scotland but it will probably be France. And I want a million dollars.,casual_vote,test,Joke-tinged France pick with no reasoning
+w56,worldcup,I honestly think it's France or England as long as we don't bottle,hot_take,train,Pick hinged on the bottling narrative
+w57,worldcup,"I'm a French supporter, but would be so happy if England wins it",casual_vote,test,Rooting preference
+w58,worldcup,Argentina again,casual_vote,val,Bare name
+w59,worldcup,Italy Lmao,casual_vote,train,Joke pick of a non-qualified team
+w61,worldcup,France are just likely to win.,casual_vote,train,Bare assertion with no reasoning
+w62,worldcup,"Canada. Let's go!!! It's tough, but there'll be none happier than me if this happens.",casual_vote,val,Rooting hope
+w63,worldcup,"Let's go!!! It's tough, but there'll be none happier than me if this happens. We need a fit Davies to begin with",casual_vote,train,Rooting plus a player-availability aside
+w64,worldcup,Messi,casual_vote,train,Single name
+w65,worldcup,"Cabo Verde, believe! Everyone's second team, let's go Cabo Verde",casual_vote,train,Meme/joke longshot pick
+w66,worldcup,"Everyone's second team, let's go Cabo Verde",casual_vote,train,Joke longshot pick fragment
+w67,worldcup,More chance than us tbh.,casual_vote,train,Self-deprecating banter
+w68,worldcup,"Spain, France, Argentina, Brazil(?), Germany, and England are the only 6 that could realistically win it... I would go with Argentina with what I have seen so far",analytical_prediction,train,Defines a realistic contender set and picks from observed play
+w69,worldcup,Football is weird. Weaker teams can pull off miracles. But I generally agree that it'll probably be one of those 6 teams,analytical_prediction,test,Endorses the six-team contender logic
+w70,worldcup,"It's too early to tell. It could go literally to anyone between Argentina, Netherlands, France, Spain, Germany, Brazil, Japan. I'd bet on France or Spain but idk!",hot_take,train,Too-early hedge then a gut bet on France/Spain
+w71,worldcup,Japan is a stretch imo especially when they likely play Morocco and Brazil in the round of 32. But that's why they are a dark horse.,analytical_prediction,train,Bracket-matchup reasoning about Japan's path
+w72,worldcup,Bro really tried to sneak Japan in that list like we wouldn't notice lol,casual_vote,train,Banter jab
+w73,worldcup,Argentina have a shot but man I feel if they had played better level of opposition so far they would have potentially been punished.,analytical_prediction,test,Form caveat about quality of opposition faced
+w74,worldcup,"You're putting Brazil, Japan and Netherlands over England?",casual_vote,train,Incredulous question
+w75,worldcup,England,casual_vote,test,Single name
+w76,worldcup,"France. I think the narrative around Messi overshadowed how insane their run over the last 30 years has been, and they're going to take a lot of stopping.",analytical_prediction,test,Pick backed by sustained tournament-pedigree argument
+w77,worldcup,Honestly it comes down to bracket placement. I could see Cape Verde upsetting Argentina in the first round... I've been a huge fan of Netherlands... they should've been in the final against France in 24.,analytical_prediction,train,Bracket-placement reasoning plus historical reference
+w78,worldcup,I would be shocked if Cape Verde win. Argentina will dominate possession. The teams to give Argentina problems will be ones that can get hold of the ball and limit Messi influence.,analytical_prediction,val,Tactical reasoning on how to trouble Argentina
+w79,worldcup,"Nothing changed. France or Spain, then maybe England",analytical_prediction,train,Stable tiered read of top contenders
+w80,worldcup,"I know it feels like we've seen a hundred matches already, but I haven't seen enough to be decisive yet. I have about five teams I could believe could lift the cup...",meta_skepticism,train,Explicitly declines to commit to a pick yet
+w81,worldcup,Its Argentina. Nobody is stopping messi again,hot_take,val,Confident pick resting on a Messi narrative
+w82,worldcup,"Canada. We somehow are up there in goals scored, and our best player is set to come back next game. Plus we are playing with raw untapped emotion...",analytical_prediction,train,Pick supported by goals scored and returning key player
+w83,worldcup,"Canada could cause a huge upset against Switzerland (biggest shock win so far), but it looks like the Swiss finally have their act together now.",analytical_prediction,test,Matchup assessment of Canada vs Switzerland
+w85,worldcup,Argentina has the easiest way to the Semis... But today they prove they are too reliant on Messi. Their defense was a hot mess. But they do have the Refs and FIFA on their side.,hot_take,val,Mixes a real path point with a refs/FIFA-conspiracy framing
+w86,worldcup,Messi can do whatever he wants even commit fouls he is the goat.,hot_take,val,Refereeing-bias narrative
+w87,worldcup,The play through him like a basketball point guard. It works beautifully,analytical_prediction,test,Tactical observation on how Argentina builds through Messi
+w89,worldcup,Kalshi or Polymarket,meta_skepticism,train,Defers to prediction markets
+w90,worldcup,At this point I'm going to say it's going to be one of the teams that finished in the top 3 places of their group.,meta_skepticism,train,Refuses to name a team
+w92,worldcup,"By draftkings odds it's France then Argentina and Spain tied, then England, Netherlands, Portugal and Brazil",analytical_prediction,train,Cites sportsbook odds ranking as basis
+w93,worldcup,This seems like the most logical assumption.,casual_vote,train,Agreement
+w94,worldcup,"Morocco because I am Moroccan although it's far fetched but who cares, Argentina (single handedly carried by Messi), Spain and France. Dishonorable mentions: Portugal and england (the bottle country)",hot_take,train,Mix of bias pick and bottling/carry tropes rather than analysis
+w95,worldcup,The irony of a Morocco fan calling another nation a bottle team after Afcon this year is hilarious. Brahim Diaz is the biggest bottler in history.,casual_vote,val,Banter jab
+w96,worldcup,"I honestly don't know, none of these teams are standout strong if they take away one player (Messi, Ronaldo, Mbappe) and the amount of draws is making it a toss up for me.",meta_skepticism,test,Argues it is a toss-up
+w97,worldcup,Mbappe is the best of the bunch. Ronaldo hasn't looked good and Messi will not be as effective against good opposition.,analytical_prediction,train,Player-form comparison among the stars
+w98,worldcup,"Ronaldo's not at that level for us anymore. The guy is literally 41. I think if any team lost key players, their chances would almost vanish except for maybe France.",analytical_prediction,train,Squad-depth reasoning singling out France
+w99,worldcup,you're crazy if you think france isn't strong without mbappe. have u seen mbappe's results for real madrid?,analytical_prediction,train,Argues France's depth using Madrid form evidence
+w100,worldcup,"Mf Ronaldo???? Best believe the team gonna be better without him just because some players seem to hate him, they would play more comfortably...",hot_take,train,Locker-room narrative claim with no concrete support
+w101,worldcup,"England, France and Spain have by far the best depth. I'm guessing the strength will show as the tournament continues",analytical_prediction,val,Squad-depth based read of top three
+w102,worldcup,Take away Ronaldo and Portugal gets better,hot_take,train,Provocative one-liner
+w103,worldcup,"I'm English so I'd love to see it finally come home, but if I'm being honest, I think France will win it.",casual_vote,val,Honest France lean but no reasoning beyond preference contrast
+w104,worldcup,"England looked great. If US team can't win (which of course they won't), I would like to see England or Holland win it.",casual_vote,train,Rooting preference plus dismissive aside
+w105,worldcup,Spain or England,casual_vote,train,Two names
+w106,worldcup,England or Netherlands,casual_vote,train,Two names
+w107,worldcup,It's the Netherlands turn,hot_take,val,Destiny/narrative claim with no support
+w108,worldcup,Your four picks + Netherlands,casual_vote,train,Adds a name to another list
+w109,worldcup,Wasn't this just asked?,meta_skepticism,train,Critiques the thread itself
+w110,worldcup,it's gonna be a good finish to the tourny!,casual_vote,test,Generic enthusiasm
+w111,worldcup,"I think argentina. Good team, Easy road to the semis, VIP refereeing service.",hot_take,train,Path point undercut by sarcastic refereeing-conspiracy framing
+w112,worldcup,"I've been watching FIFA for years now, but I don't understand why people think Infantino is helping Messi, or the Ref team is supporting them.",meta_skepticism,val,Discusses the corruption narrative
+w114,worldcup,"The Dutch. As much as I hate the dutch (kidding) they looked hella good. I'm rooting for France, though.",casual_vote,val,Light form aside but mostly a rooting note - consistent with w115
+w115,worldcup,"As much as I hate the dutch (kidding) they looked hella good. I'm rooting for France, though. You never know.",casual_vote,train,Rooting preference with light form aside
+w116,worldcup,France,casual_vote,train,Single name
+w117,worldcup,France or England,casual_vote,train,Two names
+w118,worldcup,"I really think USA. Right now the USA is gonna sweep everyone LET'S GOOOOOO, but once we're out I'm guessing France, Netherlands... most likely Argentina but I like an underdog",hot_take,train,Hype-driven USA claim then scattered gut picks
+w120,worldcup,"Right now the USA is gonna sweep everyone LET'S GOOOOOO, but once we're out I'm guessing France, Netherlands has a good look, most likely Argentina but I like an underdog",hot_take,test,Same hype-then-gut-pick pattern
+w121,worldcup,USA USA USA!!!!,casual_vote,val,Pure chant
+a3,AskTheWorld,I'll be supporting Bosnia. As a Serbian supporting Bosnia is a boss move,casual_vote,test,Rooting preference
+a5,AskTheWorld,"Brasil and Sul America, of course.",casual_vote,train,Rooting/regional preference
+a6,AskTheWorld,As a Scot supporting Scotland until they are out then France where I live.,casual_vote,train,Rooting plan
+a8,AskTheWorld,I think Spain will win but I certainly hope Germany does.,casual_vote,train,Bare prediction separated from hope
+a9,AskTheWorld,Norway is gonna win! I don't give a shit what you other people say!,hot_take,train,Defiant confident pick with zero support
+a10,AskTheWorld,"My guess is Spain gonna win. I support my country, we qualified after 24 years.",casual_vote,train,Bare Spain guess plus rooting note
+a11,AskTheWorld,"We are boycotting so I will remain loyal to that, I will not support any team (Apart from the ones playing against France)",meta_skepticism,train,Boycott stance
+a12,AskTheWorld,Yeah we are not winning this one lads. Not with this houding no,casual_vote,test,Rules own team out informally
+a13,AskTheWorld,Not with this houding no,casual_vote,test,Fragment ruling own team out
+a14,AskTheWorld,"I think France will win, I hope not. I'm supporting Paraguay",casual_vote,train,Bare France prediction plus rooting
+a15,AskTheWorld,"France and England have immense squads with good coaches, Portugal and Morocco look like dark horses. I'll support the US and Egypt but the truth is we have average squads and coaches with some standout players.",analytical_prediction,train,Squad and coaching assessment across multiple teams
+a16,AskTheWorld,I think Spain or France will win. I'll be supporting Croatia and Czechia.,casual_vote,train,Bare pick plus rooting
+a17,AskTheWorld,"The US as far as we wind up going, then England or France. I'm kind of hoping we see a first time winner, but I've been advised that's unlikely.",casual_vote,val,Rooting plus mild prediction
+a18,AskTheWorld,"I think the front runners are Spain, France and Portugal. I would bet on France though.",analytical_prediction,train,Frontrunner shortlist with a reasoned single pick
+a19,AskTheWorld,I won't be supporting the guys in the picture. I think Spain has a strong claim. I will be cheering for the Oranje.,casual_vote,train,Bare Spain claim plus rooting
+a20,AskTheWorld,"I'm rooting for Uzbekistan, but I'm sure Cote d'Ivoire will win it all",hot_take,test,Confident longshot winner call with no support
+a21,AskTheWorld,"If france wins, I will have confirmation that I am their good luck charm. I was there in 1998 and 2018, I was there in 2026.",hot_take,train,Superstition-based France narrative
+a22,AskTheWorld,France prob. I'd like to see Portugal win though cause I like Bruno Fernandes.,casual_vote,val,Bare France lean plus player-based rooting
+a23,AskTheWorld,I feel like England can take it this year. It's way overdue and I don't think France will have the best vibes in knock out games. Deschamps is on his last leg.,hot_take,train,Overdue/vibes narrative plus a thin coaching jab
+a24,AskTheWorld,"Not to win, but to defend it. VAMOS!",casual_vote,train,Implicit Argentina rooting chant
+a25,AskTheWorld,"Other than the US, I'll be supporting Cape Verde and Senegal. Senegal is my sleeper pick to win it.",hot_take,train,Sleeper longshot winner pick with no support
+a26,AskTheWorld,"Whoever beats England. It's fun making it to a competition, you should try it sometime!",casual_vote,test,Anti-England banter preference
+a30,AskTheWorld,Allez les bleus!! Allez les bleus!,casual_vote,train,France chant
+a31,AskTheWorld,Japan only bc of ado,casual_vote,train,Name plus throwaway reason
+a32,AskTheWorld,I think France is going to win it. I'll be supporting Scotland,casual_vote,train,Bare France prediction plus rooting
+a33,AskTheWorld,Supporting Canada all day long. I think France will take it though.,casual_vote,val,Rooting plus bare France pick
+a34,AskTheWorld,"I'll be supporting Croatia, Panama and Ghana. I think Ecuador will win it",hot_take,train,Confident longshot winner pick with no support
+a35,AskTheWorld,"I'm boycotting the World Cup because of Trump but my go to is France for Men's, England for Women's. Based on statistical likelihood of winning...",meta_skepticism,train,Boycott stance dominates; no committed tournament pick
+a36,AskTheWorld,"Loyal to my own country, but I'll start supporting our colonizers after we're out.",casual_vote,train,Rooting plan
+a37,AskTheWorld,Croatia but they probably won't win. Then France or Argentina.,casual_vote,train,Rooting plus fallback names
+a38,AskTheWorld,I'm supposed to cheer for USA but I want England to win cause ITS COMING HOME,casual_vote,train,Coming-home rooting preference
+a40,AskTheWorld,I think France will take it but I am supporting Portugal. One last run for the GOAT,casual_vote,test,Bare France pick plus Ronaldo rooting
+a41,AskTheWorld,C'est bon on a eu le cirque la derniere fois avec Messi ca suffit les coupes du monde de fanboys,casual_vote,val,French-language anti-fanboy gripe
+a42,AskTheWorld,"Not one mention of the current champions. Argentina. We have a solid squad, I'm still riding the highs of the last 6 years.",casual_vote,val,Names Argentina with pride but no real reasoning
+a43,AskTheWorld,"They love to hate. We have a solid squad, I'm still riding the highs of the last 6 years. Messi is probably on the last one, just enjoy.",casual_vote,train,Sentimental Argentina note
+a44,AskTheWorld,"I think Germany will win. Not the flashiest team, but they show good form. I'll support Belgium and I think we'll get further than most fans think.",analytical_prediction,train,Germany pick justified by current form
+a45,AskTheWorld,Belgium are great,casual_vote,val,Bare praise
+a46,AskTheWorld,England or France.,casual_vote,train,Two names
+a47,AskTheWorld,no one's winning this world cup. Infantino's wallet is winning.,meta_skepticism,train,Corruption critique
+a48,AskTheWorld,Infantino's wallet is winning.,meta_skepticism,train,Corruption critique fragment
+a49,AskTheWorld,Some are not winning more than others,meta_skepticism,train,Cynical meta remark
+a50,AskTheWorld,"Potential winners (in order): France, Spain, Argentina, Portugal. Supporting: Argentina.",analytical_prediction,val,Ordered ranked winner list plus rooting note
+a51,AskTheWorld,France...maybe Spain,casual_vote,train,Two names
+a52,AskTheWorld,Scotland. The jammy bastards. England will be a close second. But we secretly want Mexico,casual_vote,test,Banter rooting list
+a53,AskTheWorld,"If I had to call it, we will probably get really close and then get knocked out by Uzbekistan in penalties.",hot_take,val,Specific oddly-confident knockout scenario with no support
+a54,AskTheWorld,I think Spain will win this one but my heart goes to Japan even tho I don't think they can win it all but I enjoy watching them play.,casual_vote,train,Bare Spain pick plus Japan rooting
+a55,AskTheWorld,cape verde vs curacao in the finals,hot_take,train,Absurd longshot final prediction with no support
+a57,AskTheWorld,Scotland. Both answers. (Realistically Spain or France to win it but let me dream),casual_vote,train,Joke Scotland pick
+a58,AskTheWorld,"I sense a feeling that it's either Portugal, Spain, or somewhere in Africa",hot_take,train,Vague gut feeling spanning a continent
+a59,AskTheWorld,"France is the strongest candidate. I wish Portugal would win but they'd have to be perfect... I'm not sure they have the experience the way France does, with two finals in a row",analytical_prediction,train,Pick justified by experience and recent final appearances
+a61,AskTheWorld,Switzerland are so sure to win it's barely worth everyone flying to the USA for,hot_take,train,Sarcastic exaggerated Switzerland claim
+a62,AskTheWorld,I would love to see Canada win. But that's a dream to keep hold of.,casual_vote,test,Rooting hope
+a63,AskTheWorld,Come on Croatia!!!!,casual_vote,train,Rooting chant
+a65,AskTheWorld,I'll be supporting all the newbies and England ig... I would really love to see a debutante make a deep run,casual_vote,train,Rooting for debutants
+a66,AskTheWorld,I would really love to see a debutante make a deep run,casual_vote,train,Rooting hope fragment
+a67,AskTheWorld,"I think France will win but I am Portugal supporter, not because of Ronaldo. I start supporting Portugal since Joao Pinto, Figo, Rui Costa generation.",casual_vote,train,Bare France pick plus long-standing rooting backstory
+a68,AskTheWorld,"I'm French and think people are hyped by our attack but in reality we have no chance. Football is a team game, piling up talents is useless if they can't play together... like PSG era Mbappe-Messi-Neymar.",analytical_prediction,train,Reasoned argument that France's stars won't gel
+a69,AskTheWorld,France is winning. However I support my own.,casual_vote,train,Bare France pick plus rooting
+a70,AskTheWorld,Netherlands,casual_vote,train,Single name
+a71,AskTheWorld,France,casual_vote,train,Single name
+a72,AskTheWorld,USA,casual_vote,train,Single name
+a73,AskTheWorld,Idk but I really want brazil to have ittt lol,casual_vote,train,Rooting hope
+a74,AskTheWorld,"I'm not watching, between FIFA's corruption and coddling of the Mango Mussolini to the USA ramping up prices... I've decided to just ignore it entirely.",meta_skepticism,train,Boycott/corruption critique
+a75,AskTheWorld,FIFA sets the ticket prices for the world cup. Not the host country. We're pretty pissed off about it too.,meta_skepticism,train,Logistics/ticket-price critique
+a76,AskTheWorld,I was wondering if people would boycott. But I didn't have high hopes because fifa has picked outright dictatorships based on slave labor and folks went.,meta_skepticism,train,Boycott/ethics critique
+a77,AskTheWorld,I don't get people just now deciding to boycott it. I'm guessing you were fine with Russia and Qatar?,meta_skepticism,train,Boycott-consistency argument
+a78,AskTheWorld,Ill support whatever team I can follow on pirated coverage. No way im contributing to either Trumps America or FIFA.,meta_skepticism,val,Boycott/protest stance
+a80,AskTheWorld,Curacao,casual_vote,train,Single longshot name
+a81,AskTheWorld,Spain to win. Supporting our Celtic Cousins,casual_vote,train,Bare Spain pick plus rooting
+a82,AskTheWorld,Traditionally I cheer for England. Happy Canada made it... I think Spain is going to win.,casual_vote,train,Rooting backstory plus bare Spain pick
+a83,AskTheWorld,"I think Spain will win the World Cup. Besides Germany, I'm rooting for Norway, Japan, Morocco and Ghana.",casual_vote,test,Bare Spain pick plus rooting list
+a84,AskTheWorld,"I really want Iran to win, it would be so funny. Im just hoping Canada isn't the first one out.",casual_vote,train,Joke rooting preference
+a85,AskTheWorld,For years I've thought the team with the most chances is the one that can defend best. But France has really strong forwards. Congratulations France for winning your 3rd world cup!,analytical_prediction,train,States a defensive principle then reasons to France
+a86,AskTheWorld,Does it matter what we think? We all know that Daddy Infantino is gonna hand it to Argentina.,hot_take,train,Rigging-narrative pick of Argentina
+a87,AskTheWorld,I think France will win it. I'll be supporting my Scottish cousins.,casual_vote,train,Bare France pick plus rooting
+a89,AskTheWorld,I think Spain are going to win it. They don't look great on paper but on the pitch they're different.,analytical_prediction,val,Pick with paper-vs-pitch performance reasoning
+a90,AskTheWorld,France look very strong. Not many saying Spain though. They have a very decent chance.,analytical_prediction,train,Form-based read on France and Spain
+a91,AskTheWorld,Supporting Canada and my wife's home country of Argentina... and the ball itself as it's made in Pakistan. Who I think will win? Vamos Argentina carajo!,casual_vote,train,Rooting list plus an emotional Argentina shout
+a92,AskTheWorld,"Supporting Mexico, cuz home country. But I think Spain will win it.",casual_vote,train,Rooting plus bare Spain pick
+a93,AskTheWorld,I'm obviously supporting France and hoping we'll win although we clearly lost in the midfield compared to 2022. And our left and right back aren't the best right now.,analytical_prediction,train,Squad-area weaknesses identified for France
+a94,AskTheWorld,"I think it will be Spain or one of the South Americans that win it. I'll be supporting England, but I'd like to see Mexico do well. Or Iran as that would be brilliant!",casual_vote,train,Vague regional lean plus rooting
+a95,AskTheWorld,Mmmmmmbappe,casual_vote,train,Player name riff
+a96,AskTheWorld,Supporting: anyone that plays France. Who I think will probably win: France,casual_vote,test,Bare France pick plus anti-France rooting joke
+a97,AskTheWorld,In dictator Mbappe we trust!!!,casual_vote,train,France/Mbappe hype chant
+a98,AskTheWorld,Spain to win and I'm supporting whoever England plays,casual_vote,train,Bare Spain pick plus anti-England rooting
+a99,AskTheWorld,There is no World Cup this year. Just a FIFA World F..k,meta_skepticism,train,Dismisses the whole tournament
+a100,AskTheWorld,I support Canada and I think France will win it,casual_vote,test,Rooting plus bare France pick
+a101,AskTheWorld,Spain. And I support them.,casual_vote,val,Bare pick plus rooting
+a102,AskTheWorld,"I don't like the tournament in general, but there is a small part of my soul that still roots for Bosnia.",casual_vote,train,Reluctant rooting
+a103,AskTheWorld,"I think France will. As an Englishman I'll obviously support England. I really hope France won't though, as I live in France and would never hear the end of it.",casual_vote,train,Bare France pick plus rooting backstory
+a104,AskTheWorld,"France probably. Their whole team is scary from defence to attack, not many teams can top that. Spain is a contender too but I think France is just ahead of them",analytical_prediction,train,Squad-strength comparison front to back
+a105,AskTheWorld,"There are a few countries I want kicked out asap, mainly the Netherlands, Turkey, Suriname and Morocco... if the Netherlands makes the final I hope they win for a change.",casual_vote,val,Scheduling gripe plus conditional rooting
+a106,AskTheWorld,France or Spain. I'll be rooting for France and the Netherlands.,casual_vote,train,Two names plus rooting
+a107,AskTheWorld,"I honestly think we are the team with the most chances of winning (not the best per se, but our psychology and drive is second to none).",hot_take,train,Confidence based on intangibles
+a108,AskTheWorld,Spain for both,casual_vote,train,Bare pick for win and rooting
+a109,AskTheWorld,I will not make any predictions. I support Spain with all my heart.,casual_vote,val,Explicit non-prediction but states a clear rooting preference
+a110,AskTheWorld,"I'm English, so it'd be nice for England to win... But I want Iran to win... And I think it'll probably be France or Spain that wins.",casual_vote,train,Rooting plus bare France/Spain lean
+a111,AskTheWorld,My 2 week old daughter was conceived in Bosnia last year so we're supporting Bosnia despite not being Bosnian at all.,casual_vote,train,Personal rooting story
+a112,AskTheWorld,"I think Spain or France will win. I'll be supporting Spain, obviously.",casual_vote,train,Bare pick plus rooting
+a113,AskTheWorld,Scotland. Because I'm Scottish and live in Scotland and Scotland are at the World Cup.,casual_vote,train,Rooting reason
+a114,AskTheWorld,I'm so used to supporting Ireland or Wales it's magic to have Scotland back in the tournament!,casual_vote,train,Rooting sentiment
+a115,AskTheWorld,I support The Netherlands but with Koeman we probably get 0 points... I think Portugal will win the World Cup this time.,casual_vote,train,Self-deprecating rooting plus bare Portugal pick
+a116,AskTheWorld,For the Usa....no i do support. For Mexico...yes I support. For Nicaragua....we've never been to a world cup,casual_vote,train,Rooting breakdown
+a117,AskTheWorld,Supporting Colombia... I think France will win.,casual_vote,train,Rooting plus bare France pick
+a118,AskTheWorld,I'll support my team but don't think they have any chance. I think Spain will win.,casual_vote,train,Rooting plus bare Spain pick
+a119,AskTheWorld,I'll be supporting Scotland - gwan lads! I'll be in France for part of it... but think Spain are prob worthy favourites to win it.,casual_vote,val,Rooting plus bare favourites note
+a120,AskTheWorld,"I'm supporting Belgium and the Netherlands... Spain is undoubtedly the strongest team, and keep an eye on Morocco both on and off the pitch.",analytical_prediction,train,States Spain strongest plus a Morocco watch-note read
+a121,AskTheWorld,Poland could. But now it just can't.,hot_take,train,Cryptic dismissive claim about Poland
+a122,AskTheWorld,Supporting Germany but I can see Japan winning it,casual_vote,train,Rooting plus bare Japan lean
+a123,AskTheWorld,How is Italy not in the WC but a garbage football team like the US is in it?,casual_vote,train,Complaint/banter about qualification
