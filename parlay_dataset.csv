@@ -1,0 +1,86 @@
+id,source_thread,comment_text,label,split,exclude,rationale
+a1,AskTheWorld,"What's this World Cup? Never heard before. But since 2006, you've won as many Football World Cup matches as Cricket World Cup matches.",,,yes,Cricket banter jab
+a2,AskTheWorld,"But since 2006, you've won as many Football World Cup matches as Cricket World Cup matches. The two biggest sports in the world.",,,yes,Banter fragment
+a3,AskTheWorld,I'll be supporting Bosnia. As a Serbian supporting Bosnia is a boss move,casual_vote,test,no,Rooting preference
+a4,AskTheWorld,As a Serbian supporting Bosnia is a boss move,,,yes,Banter reaction fragment
+a5,AskTheWorld,"Brasil and Sul America, of course.",casual_vote,train,no,Rooting/regional preference
+a6,AskTheWorld,As a Scot supporting Scotland until they are out then France where I live.,casual_vote,train,no,Rooting plan
+a7,AskTheWorld,Glad to hear the auld alliance still holds,,,yes,Banter reply
+a8,AskTheWorld,I think Spain will win but I certainly hope Germany does.,casual_vote,train,no,Bare prediction separated from hope
+a9,AskTheWorld,Norway is gonna win! I don't give a shit what you other people say!,hot_take,train,no,Defiant confident pick with zero support
+a10,AskTheWorld,"My guess is Spain gonna win. I support my country, we qualified after 24 years.",casual_vote,train,no,Bare Spain guess plus rooting note
+a11,AskTheWorld,"We are boycotting so I will remain loyal to that, I will not support any team (Apart from the ones playing against France)",meta_skepticism,train,no,Boycott stance
+a12,AskTheWorld,Yeah we are not winning this one lads. Not with this houding no,casual_vote,test,no,Rules own team out informally
+a13,AskTheWorld,Not with this houding no,casual_vote,test,no,Fragment ruling own team out
+a14,AskTheWorld,"I think France will win, I hope not. I'm supporting Paraguay",casual_vote,train,no,Bare France prediction plus rooting
+a15,AskTheWorld,"France and England have immense squads with good coaches, Portugal and Morocco look like dark horses. I'll support the US and Egypt but the truth is we have average squads and coaches with some standout players.",analytical_prediction,train,no,Squad and coaching assessment across multiple teams
+a16,AskTheWorld,I think Spain or France will win. I'll be supporting Croatia and Czechia.,casual_vote,train,no,Bare pick plus rooting
+a17,AskTheWorld,"The US as far as we wind up going, then England or France. I'm kind of hoping we see a first time winner, but I've been advised that's unlikely.",casual_vote,val,no,Rooting plus mild prediction
+a18,AskTheWorld,"I think the front runners are Spain, France and Portugal. I would bet on France though.",analytical_prediction,train,no,Frontrunner shortlist with a reasoned single pick
+a19,AskTheWorld,I won't be supporting the guys in the picture. I think Spain has a strong claim. I will be cheering for the Oranje.,casual_vote,train,no,Bare Spain claim plus rooting
+a20,AskTheWorld,"I'm rooting for Uzbekistan, but I'm sure Cote d'Ivoire will win it all",hot_take,test,no,Confident longshot winner call with no support
+a21,AskTheWorld,"If france wins, I will have confirmation that I am their good luck charm. I was there in 1998 and 2018, I was there in 2026.",hot_take,train,no,Superstition-based France narrative
+a22,AskTheWorld,France prob. I'd like to see Portugal win though cause I like Bruno Fernandes.,casual_vote,val,no,Bare France lean plus player-based rooting
+a23,AskTheWorld,I feel like England can take it this year. It's way overdue and I don't think France will have the best vibes in knock out games. Deschamps is on his last leg.,hot_take,train,no,Overdue/vibes narrative plus a thin coaching jab
+a24,AskTheWorld,"Not to win, but to defend it. VAMOS!",casual_vote,train,no,Implicit Argentina rooting chant
+a25,AskTheWorld,"Other than the US, I'll be supporting Cape Verde and Senegal. Senegal is my sleeper pick to win it.",hot_take,train,no,Sleeper longshot winner pick with no support
+a26,AskTheWorld,"Whoever beats England. It's fun making it to a competition, you should try it sometime!",casual_vote,test,no,Anti-England banter preference
+a27,AskTheWorld,"It's fun making it to a competition... it is fun going home, you should try it sometime! We did in 66.",,,yes,Pure England-vs banter
+a28,AskTheWorld,"it is fun going home, you should try it sometime! We did in 66. When are you going home to Europe?",,,yes,Banter exchange
+a29,AskTheWorld,We did in 66. When are you going home to Europe?,,,yes,Banter fragment
+a30,AskTheWorld,Allez les bleus!! Allez les bleus!,casual_vote,train,no,France chant
+a31,AskTheWorld,Japan only bc of ado,casual_vote,train,no,Name plus throwaway reason
+a32,AskTheWorld,I think France is going to win it. I'll be supporting Scotland,casual_vote,train,no,Bare France prediction plus rooting
+a33,AskTheWorld,Supporting Canada all day long. I think France will take it though.,casual_vote,val,no,Rooting plus bare France pick
+a34,AskTheWorld,"I'll be supporting Croatia, Panama and Ghana. I think Ecuador will win it",hot_take,train,no,Confident longshot winner pick with no support
+a35,AskTheWorld,"I'm boycotting the World Cup because of Trump but my go to is France for Men's, England for Women's. Based on statistical likelihood of winning...",meta_skepticism,train,no,Boycott stance dominates; no committed tournament pick
+a36,AskTheWorld,"Loyal to my own country, but I'll start supporting our colonizers after we're out.",casual_vote,train,no,Rooting plan
+a37,AskTheWorld,Croatia but they probably won't win. Then France or Argentina.,casual_vote,train,no,Rooting plus fallback names
+a38,AskTheWorld,I'm supposed to cheer for USA but I want England to win cause ITS COMING HOME,casual_vote,train,no,Coming-home rooting preference
+a39,AskTheWorld,No it isn't.,,,yes,Banter retort
+a40,AskTheWorld,I think France will take it but I am supporting Portugal. One last run for the GOAT,casual_vote,test,no,Bare France pick plus Ronaldo rooting
+a41,AskTheWorld,C'est bon on a eu le cirque la derniere fois avec Messi ca suffit les coupes du monde de fanboys,casual_vote,val,no,French-language anti-fanboy gripe
+a42,AskTheWorld,"Not one mention of the current champions. Argentina. We have a solid squad, I'm still riding the highs of the last 6 years.",casual_vote,val,no,Names Argentina with pride but no real reasoning
+a43,AskTheWorld,"They love to hate. We have a solid squad, I'm still riding the highs of the last 6 years. Messi is probably on the last one, just enjoy.",casual_vote,train,no,Sentimental Argentina note
+a44,AskTheWorld,"I think Germany will win. Not the flashiest team, but they show good form. I'll support Belgium and I think we'll get further than most fans think.",analytical_prediction,train,no,Germany pick justified by current form
+a45,AskTheWorld,Belgium are great,casual_vote,val,no,Bare praise
+a46,AskTheWorld,England or France.,casual_vote,train,no,Two names
+a47,AskTheWorld,no one's winning this world cup. Infantino's wallet is winning.,meta_skepticism,train,no,Corruption critique
+a48,AskTheWorld,Infantino's wallet is winning.,meta_skepticism,train,no,Corruption critique fragment
+a49,AskTheWorld,Some are not winning more than others,meta_skepticism,train,no,Cynical meta remark
+a50,AskTheWorld,"Potential winners (in order): France, Spain, Argentina, Portugal. Supporting: Argentina.",analytical_prediction,val,no,Ordered ranked winner list plus rooting note
+a51,AskTheWorld,France...maybe Spain,casual_vote,train,no,Two names
+a52,AskTheWorld,Scotland. The jammy bastards. England will be a close second. But we secretly want Mexico,casual_vote,test,no,Banter rooting list
+a53,AskTheWorld,"If I had to call it, we will probably get really close and then get knocked out by Uzbekistan in penalties.",hot_take,val,no,Specific oddly-confident knockout scenario with no support
+a54,AskTheWorld,I think Spain will win this one but my heart goes to Japan even tho I don't think they can win it all but I enjoy watching them play.,casual_vote,train,no,Bare Spain pick plus Japan rooting
+a55,AskTheWorld,cape verde vs curacao in the finals,hot_take,train,no,Absurd longshot final prediction with no support
+a56,AskTheWorld,Every major competition there's a guy in Scotland who flies the flag of whoever is playing England that day. It went viral on Reddit during the euros.,,,yes,Anecdote about a fan
+a57,AskTheWorld,Scotland. Both answers. (Realistically Spain or France to win it but let me dream),casual_vote,train,no,Joke Scotland pick
+a58,AskTheWorld,"I sense a feeling that it's either Portugal, Spain, or somewhere in Africa",hot_take,train,no,Vague gut feeling spanning a continent
+a59,AskTheWorld,"France is the strongest candidate. I wish Portugal would win but they'd have to be perfect... I'm not sure they have the experience the way France does, with two finals in a row",analytical_prediction,train,no,Pick justified by experience and recent final appearances
+a60,AskTheWorld,i'm crying,,,yes,Pure reaction
+a61,AskTheWorld,Switzerland are so sure to win it's barely worth everyone flying to the USA for,hot_take,train,no,Sarcastic exaggerated Switzerland claim
+a62,AskTheWorld,I would love to see Canada win. But that's a dream to keep hold of.,casual_vote,test,no,Rooting hope
+a63,AskTheWorld,Come on Croatia!!!!,casual_vote,train,no,Rooting chant
+a64,AskTheWorld,wow,,,yes,Single-word reaction
+a65,AskTheWorld,I'll be supporting all the newbies and England ig... I would really love to see a debutante make a deep run,casual_vote,train,no,Rooting for debutants
+a66,AskTheWorld,I would really love to see a debutante make a deep run,casual_vote,train,no,Rooting hope fragment
+a67,AskTheWorld,"I think France will win but I am Portugal supporter, not because of Ronaldo. I start supporting Portugal since Joao Pinto, Figo, Rui Costa generation.",casual_vote,train,no,Bare France pick plus long-standing rooting backstory
+a68,AskTheWorld,"I'm French and think people are hyped by our attack but in reality we have no chance. Football is a team game, piling up talents is useless if they can't play together... like PSG era Mbappe-Messi-Neymar.",analytical_prediction,train,no,Reasoned argument that France's stars won't gel
+a69,AskTheWorld,France is winning. However I support my own.,casual_vote,train,no,Bare France pick plus rooting
+a70,AskTheWorld,Netherlands,casual_vote,train,no,Single name
+a71,AskTheWorld,France,casual_vote,train,no,Single name
+a72,AskTheWorld,USA,casual_vote,train,no,Single name
+a73,AskTheWorld,Idk but I really want brazil to have ittt lol,casual_vote,train,no,Rooting hope
+a74,AskTheWorld,"I'm not watching, between FIFA's corruption and coddling of the Mango Mussolini to the USA ramping up prices... I've decided to just ignore it entirely.",meta_skepticism,train,no,Boycott/corruption critique
+a75,AskTheWorld,FIFA sets the ticket prices for the world cup. Not the host country. We're pretty pissed off about it too.,meta_skepticism,train,no,Logistics/ticket-price critique
+a76,AskTheWorld,I was wondering if people would boycott. But I didn't have high hopes because fifa has picked outright dictatorships based on slave labor and folks went.,meta_skepticism,train,no,Boycott/ethics critique
+a77,AskTheWorld,I don't get people just now deciding to boycott it. I'm guessing you were fine with Russia and Qatar?,meta_skepticism,train,no,Boycott-consistency argument
+a78,AskTheWorld,Ill support whatever team I can follow on pirated coverage. No way im contributing to either Trumps America or FIFA.,meta_skepticism,val,no,Boycott/protest stance
+a79,AskTheWorld,SABC are streaming games for free anyways,,,yes,Streaming logistics aside
+a80,AskTheWorld,Curacao,casual_vote,train,no,Single longshot name
+a81,AskTheWorld,Spain to win. Supporting our Celtic Cousins,casual_vote,train,no,Bare Spain pick plus rooting
+a82,AskTheWorld,Traditionally I cheer for England. Happy Canada made it... I think Spain is going to win.,casual_vote,train,no,Rooting backstory plus bare Spain pick
+a83,AskTheWorld,"I think Spain will win the World Cup. Besides Germany, I'm rooting for Norway, Japan, Morocco and Ghana.",casual_vote,test,no,Bare Spain pick plus rooting list
+a84,AskTheWorld,"I really want Iran to win, it would be so funny. Im just hoping Canada isn't the first one out.",casual_vote,train,no,Joke rooting preference
+a85,AskTheWorld,"For years I've thought the team with the most chances is the one that can defend best. But France has really strong forwards. Congratulations France for winning your 3rd world cup!,analytical_prediction,train,no,States a defensive principle then reasons to France
